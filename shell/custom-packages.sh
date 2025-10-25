@@ -31,8 +31,9 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-app-argon-config"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES -luci-i18n-argon-config-zh-cn"
 # mtw125 需要
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-ksmbd"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-ksmbd-zh-cn"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-ddns-go"
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-socat"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-ddns-go-zh-cn"
 # 网络测速 by sirpdboy 
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-netspeedtest"
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-netspeedtest-zh-cn"
